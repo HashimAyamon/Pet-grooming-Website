@@ -1,6 +1,6 @@
 Project Name: PetGrooming Website
 Description:
-Welcome to PetGrooming, a beautifully designed and responsive website created using HTML and CSS. This project brings the charm of professional pet care services online with an intuitive and visually appealing interface.
+Welcome to PetGrooming,This is a beautifully designed and responsive website created using HTML and CSS. This project brings the charm of professional pet care services online with an intuitive and visually appealing interface.
 
 🐾 Key Features:-
 
